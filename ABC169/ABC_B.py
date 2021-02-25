@@ -1,7 +1,5 @@
 N = int(input())
-
 A = [int(x) for x in input().split()]
-
 ans = 1
 
 if 0 in A:
